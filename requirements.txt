@@ -1,0 +1,2 @@
+# Requires: obsolete-potential
+# (Not available on PyPI)
